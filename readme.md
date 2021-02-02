@@ -1,1 +1,1 @@
-this is a readme.md.
+this is a repository for git learning.
