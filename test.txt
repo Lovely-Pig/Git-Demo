@@ -1,2 +1,2 @@
-git is a good version control system.hh
+git is a good version control system.
 hello.
